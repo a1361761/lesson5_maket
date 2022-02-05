@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+* {
+   font-family: Lato, sans-serif;
+}
+
+.wrapper {
+   min-height: 100%;
+	overflow: hidden;
+   padding: 15px 30px;
+   max-width: 810px;
+   margin: 0px auto;
+   line-height: 1.5;
+}
+
+.title {
+   font-weight: 900;
+   font-size: 46px;
+}
+
+img {
+   padding: 50px 0px;
+}
+
+main p {
+   padding: 20px 0px;
+}
+
+.text {
+   font-weight: 700;
+   font-size: 20px;
+}
+
+.indent1 {
+   margin: 15px 0px 15px 30px;
+}
+
+.indent2 {
+   margin-left: 15px;
+}
